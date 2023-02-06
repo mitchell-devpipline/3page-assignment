@@ -1,0 +1,17 @@
+<!--
+Assignment 2/2/2023
+
+Spin up a small custom website.
+- At least 3 pages (of your choosing).
+- Navigation throughout the whole site
+- At least anchored section
+- At least 2 images: 1 referenced in the file structure, 1 external reference (relative ref, absolute)
+- Footer with links
+- At least 1 Styled fontawesome icon
+- At least 1 pseudo class style
+- Must have 1 flexbox, and 1 grid
+
+You can use repl.it or vs code, doesn't matter.
+Make it real. IE: Document titles, proper structure (project, code).
+Make it mobily responsive
+-->
