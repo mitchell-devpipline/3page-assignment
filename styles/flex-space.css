@@ -31,29 +31,19 @@ body {
 
 .centered {
   color: red;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  height: 60%;
-  width: 60%;
   align-items: center;
+  margin-bottom: 30px;
+  font-size: 20px;
 }
-.low-centered {
+.image .low-centered {
   color: red;
   font-size: 20px;
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  height: 70%;
-  width: 70%;
+  margin-bottom: 200px;
   align-items: center;
 }
 
-.box4,
-a {
+.image .box4 a {
   color: white;
   font-size: 15px;
+  margin-bottom: 60px;
 }
